@@ -3,6 +3,6 @@ _ГОООООООООООООООООЛ_
 Животные, которых у меня **нет**:
 * Рыбка
 * Кошечка
-* [Собачка] (https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0)
+* [ооо] (https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0)
  
 
